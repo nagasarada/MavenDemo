@@ -16,6 +16,10 @@ public class TestPack1 {
     public void test3(){
         System.out.println("running test3");
     }
+    @Test
+    public void test4(){
+        System.out.println("running test4");
+    }
 
 
 
